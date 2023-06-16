@@ -3,8 +3,5 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=&weight=900&size=25&duration=3000&pause=100&color=A028FF&width=435&lines=Hey!+I%27m+Anant+Saxena%F0%9F%91%BB;Welcome+to+my+profile" />
 </p>
 
-<h2> Hello, I'm Anant Saxena! <img src="https://gifdb.com/images/high/corgie-dancing-dog-hbcedhqqt57l9tsx.webp" width=""/> </h2>
-
-
 
 
