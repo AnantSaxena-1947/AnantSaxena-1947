@@ -1,6 +1,6 @@
 <img src="Frame 1.png" width="100%" />
 <h1 align="center">Hey! I'm Anant Saxena <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36"></h1>
-<h3 align="center">A passionate Front-end Developer and UI/UX designer from India</h3>
+<h3 align="center">A passionate Fullstack Developer and A product Designer from India</h3>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=30&duration=3000&pause=1000&color=45D6FF&background=01040200&width=460&height=100&lines=Elevating+Visual+Experiences" />
 </h2>
 
