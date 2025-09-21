@@ -10,9 +10,9 @@
 <!-- <p align="left"> <a href="https://twitter.com/piug_07" target="blank"><img src="https://img.shields.io/twitter/follow/piug_07?logo=twitter&style=for-the-badge" alt="piug_07" /></a> </p> -->
 - 🌱 **Contributing in Open Source**
 
-- 🎨 Designing **User Interfaces**
+- 🎨 Designing **User Interfaces and experiences**
 
-- 💬 Ask me about **Frontend dev**
+- 💬 Ask me about **Full-stack development**
 
 - 📫 How to reach me **saxenaanant870@gmail.com**
 
