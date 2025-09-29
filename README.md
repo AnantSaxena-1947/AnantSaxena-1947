@@ -20,7 +20,7 @@
 - 💼 **Backend Developer** at **Volkswagen Group Digital Solutions India**, collaborating daily with technical teams in **Germany**.
 - 🌱 Currently deepening my expertise in **Distributed Systems** and **Cloud-Native Architecture** on AWS.
 - 💡 Passionate about writing clean, efficient, and scalable code in **Go (Golang)**.
-- 🎯 **Goal:** To contribute to high-impact backend systems in the German tech industry.
+- 🎯 **Goal:** To contribute to high-impact backend systems in tech industry.
 
 ### 🛠️ Tech Stack
 
